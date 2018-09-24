@@ -3,10 +3,16 @@ Esta aplicacion es un simple modulo para conocer cuando el dispositivo tiene acc
 # Variables de entorno
 crear un fichero .bash_androdid con las siguientes lineas
 
-export ANDROID_HOME=$HOME/Library/Android/sdk \n
+export ANDROID_HOME=$HOME/Library/Android/sdk
+
 export PATH=$PATH:$ANDROID_HOME/tools
+
 export PATH=$PATH:$ANDROID_HOME/tools/bin
+
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+luego ejecutar en el terminal el siguiente comando
+
 source .bash_android
+
 # Linking 
 ejecutar react-native link react-native-device-info
