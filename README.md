@@ -19,4 +19,5 @@ ejecutar react-native link react-native-device-info
 
 # Referencias
 https://facebook.github.io/react-native/docs/netinfo
+
 https://www.npmjs.com/package/react-native-device-info
