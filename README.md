@@ -1,5 +1,5 @@
 # conected
-Esta aplicacion es un simple modulo para conocer cuando el dispositivo tiene acceso a internet, independientemente de la via,ya sea 3g, wifi etc...
+Esta aplicacion es un simple modulo para conocer cuando el dispositivo tiene acceso a internet, independientemente de la via,ya sea 3g, wifi etc... Acceso a las propiedades de conexion del dispositivo.
 # Variables de entorno
 crear un fichero .bash_androdid con las siguientes lineas
 
