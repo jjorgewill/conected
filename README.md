@@ -13,9 +13,13 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 luego ejecutar en el terminal el siguiente comando
 
 source .bash_android
+# Agregando permisos en el fichero AndroidManifest.xml
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
 
 # Linking 
-ejecutar react-native link react-native-device-info
+ejecutar react-native link react-native-device-info-2
 
 # Referencias
 https://facebook.github.io/react-native/docs/netinfo
