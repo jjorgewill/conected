@@ -20,7 +20,9 @@ source .bash_android
 
 # Linking 
 ejecutar react-native link react-native-device-info-2
-Tics:  si sale el sieguiente error:"Unable to resolve module `@babel/runtime/helpers/interopRequireDefault" 
+Tics:  si sale el sieguiente error:"Unable to resolve module 
+
+`@babel/runtime/helpers/interopRequireDefault" 
 ejecutar npm add @babel/runtime
 # Referencias
 https://facebook.github.io/react-native/docs/netinfo
