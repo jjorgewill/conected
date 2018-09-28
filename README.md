@@ -19,7 +19,10 @@ source .bash_android
 
 
 # Linking 
-ejecutar react-native link react-native-device-info-2
+Ejecutar
+
+react-native link react-native-device-info-2
+react-native link react-native-contacts
 Tics:  si sale el sieguiente error:"Unable to resolve module 
 
 `@babel/runtime/helpers/interopRequireDefault" 
