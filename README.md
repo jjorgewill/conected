@@ -33,3 +33,5 @@ ejecutar npm add @babel/runtime
 https://facebook.github.io/react-native/docs/netinfo
 
 https://www.npmjs.com/package/react-native-device-info
+
+https://github.com/rt2zz/react-native-contacts
