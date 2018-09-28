@@ -16,6 +16,7 @@ source .bash_android
 # Agregando permisos en el fichero AndroidManifest.xml
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
 
 # Linking 
