@@ -30,6 +30,14 @@ Tics:  si sale el sieguiente error:"Unable to resolve module
 
 `@babel/runtime/helpers/interopRequireDefault" 
 ejecutar npm add @babel/runtime
+
+Error-> Unable to load script from assets 'index.android.bundle' ejecutar:
+
+rm -r node_modules
+  npm install
+  react-native start
+
+
 # Referencias
 https://facebook.github.io/react-native/docs/netinfo
 
