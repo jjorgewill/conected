@@ -36,7 +36,7 @@ Error-> Unable to load script from assets 'index.android.bundle' ejecutar:
 rm -r node_modules
   npm install
   react-native start
-
+npm start --reset-cache
 
 # Referencias
 https://facebook.github.io/react-native/docs/netinfo
