@@ -22,6 +22,8 @@ source .bash_android
 # Linking 
 Ejecutar
 
+Primer parso ejecutar -> npm start
+
 react-native link react-native-device-info-2
 
 react-native link react-native-contacts
